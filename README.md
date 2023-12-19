@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Ashwini
 - 👀 I’m interested in creating websites.
 - 🌱 I’m currently learning JavaScript .
-- 📫 How to reach me via LinkedIn : www.linkedin.com/in/
+- 📫 Reach out to me via 
+
+   🔗 LinkedIn : www.linkedin.com/in/
+   ✉️ Email    : arahunashisony@gmail.com
+   
+     
 
 
 <!---
