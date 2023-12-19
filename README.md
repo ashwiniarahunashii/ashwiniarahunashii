@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript .
 - 📫 Reach out to me via 
 
-   🔗 LinkedIn : www.linkedin.com/in/
-   ✉️ Email    : arahunashisony@gmail.com
+    🔗 LinkedIn : www.linkedin.com/in/
+    ✉️ Email    : arahunashisony@gmail.com
    
      
 
