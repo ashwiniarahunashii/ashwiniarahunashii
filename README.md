@@ -4,7 +4,7 @@
 - 📫 Reach out to me via 
 
     🔗 LinkedIn : www.linkedin.com/in/
-    ✉️ Email    : arahunashisony@gmail.com
+    ✉️ Email    : ashwini02as@gmail.com
    
      
 
