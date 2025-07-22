@@ -1,15 +1,31 @@
-- 👋 Hi, I’m Ashwini
-- 👀 I’m interested in creating websites.
-- 🌱 I’m currently learning JavaScript .
-- 📫 Reach out to me via 
+# 👋 Hi, I’m Ashwini Arahunashi
 
-    🔗 LinkedIn : www.linkedin.com/in/
-    ✉️ Email    : ashwini02as@gmail.com
-   
-     
+### 💻 Aspiring Full Stack Developer | Java Enthusiast | Web Developer
 
+- 👀 I’m passionate about creating beautiful, responsive websites and applications.
+- 🌱 I’m currently learning **JavaScript** and exploring **React.js**.
+- 💡 Skilled in: **HTML**, **CSS**, **Java**, **JDBC**, **MySQL**, **Git**, and more.
+- 🚀 I'm constantly working on projects to improve my development and problem-solving skills.
+- 📫 Reach out to me via:
 
-<!---
-ashwiniarahunashii/ashwiniarahunashii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+  - ✉️ Email: ashwini02as@gmail.com
+
+---
+
+### 📌 GitHub Stats
+
+![Ashwini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwiniarahunashii&show_icons=true&theme=radical)
+
+---
+
+### 🌟 Projects & Practice
+
+Check out my repositories for:
+- 🔸 Java & JDBC Practice
+- 🔸 Web Development Projects
+- 🔸 Full Stack Java Applications
+
+Thanks for visiting! 😊
+
+  
