@@ -8,7 +8,7 @@
 - 🚀 I'm constantly working on projects to improve my development and problem-solving skills.
 - 📫 Reach out to me via:
 
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/ashwini-ara-240785243/)  
   - ✉️ Email: ashwini02as@gmail.com
 
 ---
@@ -24,6 +24,7 @@
 Check out my repositories for:
 - 🔸 Java & JDBC Practice
 - 🔸 Web Development Projects
+- 🔸 Manual Tessting project
 - 🔸 Full Stack Java Applications
 
 Thanks for visiting! 😊
