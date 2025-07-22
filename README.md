@@ -24,7 +24,7 @@
 Check out my repositories for:
 - 🔸 Java & JDBC Practice
 - 🔸 Web Development Projects
-- 🔸 Manual Tessting project
+- 🔸 Manual Testing project
 - 🔸 Full Stack Java Applications
 
 Thanks for visiting! 😊
