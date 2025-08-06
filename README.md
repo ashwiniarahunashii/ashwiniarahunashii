@@ -22,10 +22,10 @@
 ### 🌟 Projects & Practice
 
 Check out my repositories for:
- -🔸 Java & JDBC Practice
- -🔸 Web Development Projects
- -🔸 Manual Testing project
- -🔸 Full Stack Java Applications
+ - 🔸 Java & JDBC Practice
+ - 🔸 Web Development Projects
+ - 🔸 Manual Testing project
+ - 🔸 Full Stack Java Applications
 
 Thanks for visiting! 😊
 
